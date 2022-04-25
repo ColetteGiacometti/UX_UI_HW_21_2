@@ -110,6 +110,15 @@ h1 {
     font-weight: lighter;
   }
 
+  a {
+    text-decoration: none;
+    color:black;
+}
+  a:hover {
+  text-decoration: none;
+  color:black;
+}
+
   .textFooter {
     font-family:'Montserrat', sans-serif;
     font-size: 100%;
